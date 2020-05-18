@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589804979 source:c:\users\damia\documents\damian\programacion utn\primer parcial teorico definitivo\primerparcialprogramacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
